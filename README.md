@@ -1,2 +1,2 @@
 # MathModelling_SPbSTU
-Group of tasks to university's subject "Math Modelling"
+Реализация итерационного решения симплексной таблицы для оптимизционных задач
