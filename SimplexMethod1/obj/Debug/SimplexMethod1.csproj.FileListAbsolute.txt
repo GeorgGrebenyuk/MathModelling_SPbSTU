@@ -1,0 +1,9 @@
+C:\Work\Code\MathModelling_SPbSTU\SimplexMethod1\bin\Debug\SimplexMethod1.exe.config
+C:\Work\Code\MathModelling_SPbSTU\SimplexMethod1\bin\Debug\SimplexMethod1.exe
+C:\Work\Code\MathModelling_SPbSTU\SimplexMethod1\bin\Debug\SimplexMethod1.pdb
+C:\Work\Code\MathModelling_SPbSTU\SimplexMethod1\obj\Debug\SimplexMethod1.Form1.resources
+C:\Work\Code\MathModelling_SPbSTU\SimplexMethod1\obj\Debug\SimplexMethod1.Properties.Resources.resources
+C:\Work\Code\MathModelling_SPbSTU\SimplexMethod1\obj\Debug\SimplexMethod1.csproj.GenerateResource.cache
+C:\Work\Code\MathModelling_SPbSTU\SimplexMethod1\obj\Debug\SimplexMethod1.csproj.CoreCompileInputs.cache
+C:\Work\Code\MathModelling_SPbSTU\SimplexMethod1\obj\Debug\SimplexMethod1.exe
+C:\Work\Code\MathModelling_SPbSTU\SimplexMethod1\obj\Debug\SimplexMethod1.pdb
